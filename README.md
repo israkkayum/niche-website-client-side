@@ -1,6 +1,6 @@
 # Niche Website (Bicycle)
 
-Live Website Link [Komo Bike](https://github.com/facebook/create-react-app).
+Live Website Link [Komo Bike](https://niche-product-9d8a6.web.app/).
 
 ## Site Map
 
@@ -10,9 +10,6 @@ Live Website Link [Komo Bike](https://github.com/facebook/create-react-app).
     - Dashboard
     - Make Admin
     - Manage All Orders
-    - Manage Products
-    - My Orders
-    - Pay 
 - Home
     - Banner
     - FAQ
