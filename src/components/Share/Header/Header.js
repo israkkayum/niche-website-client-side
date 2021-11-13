@@ -15,8 +15,6 @@ const Header = () => {
 
     const { user, logout } = useAuth();
 
-    console.log(user);
-
     return (
         <div>
             <Box sx={{ flexGrow: 1 }}>
