@@ -1,0 +1,28 @@
+.purchase-title{
+    font-weight: 600;
+    margin: 50px;
+    text-align: center;
+    color: blue;
+}
+
+.cart-product{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .cart-product{
+        padding: 10px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-row-gap: 20px;
+    }
+    
+}
+
+.cart-product img{
+    height: 500px;
+    width: 100%;
+}
