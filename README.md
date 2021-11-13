@@ -5,29 +5,29 @@ Live Website Link [Komo Bike](https://github.com/facebook/create-react-app).
 ## Site Map
 
 - Dashboard
-    - Sub Add Product
-    - Sub Add Review
-    - Sub Dashboard
-    - Sub Make Admin
-    - Sub Manage All Orders
-    - Sub Manage Products
-    - Sub My Orders
-    - Sub Pay 
-- Item Home
-    - Sub Banner
-    - Sub FAQ
-    - Sub Home
-    - Sub Products
-    - Sub Reviews
-- Item Login
-    - Sub Admin Route
-    - Sub Firebase
-    - Sub Login
-    - Sub Private Route
-    - Sub Register
-- Item Page Not Found
-- Item Purchase
-- Item Share
-    - Sub Header
-    - Sub Footer
-- Item Shops
+    - Add Product
+    - Add Review
+    - Dashboard
+    - Make Admin
+    - Manage All Orders
+    - Manage Products
+    - My Orders
+    - Pay 
+- Home
+    - Banner
+    - FAQ
+    - Home
+    - Products
+    - Reviews
+- Login
+    - Admin Route
+    - Firebase
+    - Login
+    - Private Route
+    - Register
+- Page Not Found
+- Purchase
+- Share
+    - Header
+    - Footer
+- Shops
